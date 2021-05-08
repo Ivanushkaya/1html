@@ -10,3 +10,28 @@ div{
 #moya_ssilka{
 	color: green;
 }
+
+#testovaya_ssilka {
+ 	font-size: 20px;
+ 	color: purple;
+}
+
+.man{
+	color: green;
+}
+
+.enimal{
+	color: blue;
+}
+
+.lion{
+	color: red;
+}
+
+.fish{
+	color: orange;
+}
+
+.monkey{
+	color: yellow
+}
