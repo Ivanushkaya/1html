@@ -35,3 +35,32 @@ div{
 .monkey{
 	color: yellow
 }
+
+.message{
+	color: lime;
+	background-color: white; 
+	border: 1px solid black;
+	font-size: 20px;
+	margin: 10px;
+	padding: 15px; 
+}
+
+.succes{
+ background-color:green; 
+ color:white;	
+}
+.fail{
+	background-color: red;
+}
+
+.info{
+	background-color: blue;
+}
+
+.warning{
+	background-color: yellow;
+}
+
+.message:hover{
+  border: 10px solid white;	
+}
