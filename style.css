@@ -38,7 +38,7 @@ div{
 
 .message{
 	color: lime;
-	background-color: white; 
+	background-color: yellow; 
 	border: 1px solid black;
 	font-size: 20px;
 	margin: 10px;
@@ -63,4 +63,16 @@ div{
 
 .message:hover{
   border: 10px solid white;	
+}
+
+#testovaya_ssilka:hover{
+	border: 10px solid black;
+}
+
+#test{
+	background-color:green;
+	color: blue;
+	padding:15px;
+	margin:15px; 
+	border: 7px solid red;
 }
