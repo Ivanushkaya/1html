@@ -18,10 +18,12 @@ div{
 
 .man{
 	color: green;
+	background-color: blue;
 }
 
 .enimal{
 	color: blue;
+	background-color: lime;
 }
 
 .lion{
@@ -36,6 +38,7 @@ div{
 	color: yellow
 }
 
+ 
 .message{
 	color: lime;
 	background-color: yellow; 
@@ -67,6 +70,7 @@ div{
 
 #testovaya_ssilka:hover{
 	border: 10px solid black;
+	background-color: lime;
 }
 
 #test{
@@ -75,4 +79,6 @@ div{
 	padding:15px;
 	margin:15px; 
 	border: 7px solid red;
+	border-radius: 3000PX
+	opacity:0.5; 
 }
