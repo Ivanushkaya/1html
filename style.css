@@ -84,5 +84,9 @@ div{
 	box-shadow:13px 13px 7px black;
 	width: 399px;
 	height: 400px;
-	padding: 100px
+	padding: 100px;
+	display: block;
+	text-align:center 
+	font-size:30px;
+	font-weight:800px;
 }
